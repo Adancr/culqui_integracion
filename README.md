@@ -32,6 +32,8 @@ American Express 	3712 1212 1212 122 	  11/2020 	2841 	Venta exitosa
 
 Diners Club 	    360012 1212 1210 	    04/2020 	964 	Venta exitosa
 
+Enlace de Prueba de tarjetas: https://www.culqi.com/docs/#/desarrollo/tarjetas
+
 Copyright © 2019 - Desarrollado por Moreno Alburqueque Frank Martin.
 
 admin@frankmorenoalburqueque.com
